@@ -1,5 +1,5 @@
 body{
-    font-family: Archia;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 /* .hr-style{
     border-top: 10px;
@@ -42,7 +42,7 @@ button a{
 }
 #Contacto a{
 /*     text-decoration: none; */
-    font-family: Archia;
+    font-family: 'Noto Sans JP', sans-serif;
     font-size: 14px;  
     color: #717D96;
 }
@@ -106,4 +106,10 @@ footer p{
 }
 .stroke{
     -webkit-text-stroke: 1px #333333;
+}
+.color-new{
+    color: #34d5ad;
+}
+.color-new-bg{
+    background-color: #34d5ad;
 }
